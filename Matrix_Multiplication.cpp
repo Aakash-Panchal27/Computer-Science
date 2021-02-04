@@ -1,6 +1,6 @@
 /*
 1.Blocked Matrix Multiplication
-2.Simple Matrix Multiplciation Along with loop chagnes and performance comparison
+2.Simple Matrix Multiplciation: 6 types of loop permutation and its performance comparison
 */
 
 #include<bits/stdc++.h>
